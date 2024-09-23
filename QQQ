@@ -1,0 +1,10 @@
+		# Passo a Passo para Usar o Código no Google Colab
+Acesse o Google Colab
+
+Vá para Google Colab.
+Criar um Novo Notebook
+
+Clique em "File" (Arquivo) > "New Notebook" (Novo Notebook).
+Instalar Dependências
+
+Execute o seguinte comando em uma célula para instalar o Pillow (caso ainda não esteja instalado):
