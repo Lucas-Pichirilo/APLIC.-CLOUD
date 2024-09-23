@@ -30,6 +30,6 @@ O projeto pode ser implementado em diferentes tipos de estacionamentos, como:
 - **Aeroportos e rodoviárias**: Torna a entrada e saída de veículos mais eficiente, com menor congestão.
 
 #### **Integrantes**
-- **Lucas Kaua Pichirilo Lima
+- Lucas Kaua Pichirilo Lima
 
 
