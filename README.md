@@ -29,4 +29,7 @@ O projeto pode ser implementado em diferentes tipos de estacionamentos, como:
 - **Estacionamentos de grandes empresas**: Auxilia no controle interno do fluxo de veículos de funcionários.
 - **Aeroportos e rodoviárias**: Torna a entrada e saída de veículos mais eficiente, com menor congestão.
 
+#### **Integrantes**
+- **Lucas Kaua Pichirilo Lima
+
 
