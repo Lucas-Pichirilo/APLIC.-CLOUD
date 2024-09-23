@@ -1,5 +1,5 @@
 
-### **Projeto: Sistema de Monitoramento IoT para Estacionamento com Identificação de Veículos**
+### **Sistema de Monitoramento IoT para Estacionamento com Identificação de Veículos**
 
 #### **Objetivo do Projeto**
 O objetivo deste projeto é criar um sistema inteligente de monitoramento para estacionamentos utilizando IoT (Internet das Coisas). O sistema visa automatizar a identificação de veículos, classificando-os em carros ou motos, e fornecendo informações em tempo real sobre o status de ocupação das vagas.
